@@ -1,2 +1,20 @@
 project:
   type: website
+  output-dir: _site
+
+website:
+  title: "R/Pharma SDTM Workshop"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Full Workshop"
+        href: full.html
+      - text: "Condensed Version"
+        href: condensed.html
+
+format:
+  revealjs:
+    theme: solarized
+    transition: convex
+    background-transition: fade
