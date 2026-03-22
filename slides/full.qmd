@@ -364,7 +364,9 @@ What function should be used for mapping for CMROUTE
 
 Review aCRF
 
--  [VitalSigns_aCRF](https://github.com/pharmaverse/pharmaverseraw/blob/main/vignettes/articles/aCRFs/VitalSigns_aCRF.pdf)
+-  [VitalSigns_aCRF](https://github.com/pharmaverse/sdtm.oak-workshop/blob/main/specs/vs/VITALSIGNS_aCRF.pdf)
+
+-  [VitalSigns_specs_metadata](https://github.com/pharmaverse/sdtm.oak-workshop/blob/main/specs/vs/vs_sdtm_oak_spec.csv)
 
 ## Code Walkthrough
 

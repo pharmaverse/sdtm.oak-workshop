@@ -257,13 +257,15 @@ img_center_size <- 300
 
 Review aCRF
 
--  [VitalSigns_aCRF](https://github.com/pharmaverse/pharmaverseraw/blob/main/vignettes/articles/aCRFs/VitalSigns_aCRF.pdf)
+-  [VitalSigns_aCRF](https://github.com/pharmaverse/sdtm.oak-workshop/blob/main/specs/vs/VITALSIGNS_aCRF.pdf)
 
--  [VitalSigns_metadata](https://github.com/pharmaverse/pharmaverseraw/blob/main/vignettes/articles/aCRFs/VitalSigns_metadata.csv)
+-  [VitalSigns_specs_metadata](https://github.com/pharmaverse/sdtm.oak-workshop/blob/main/specs/vs/vs_sdtm_oak_spec.csv)
 
 ## Demo - Code Generation using metadata
 
 Run the app and explain to the users
+
+[Link to the app](https://rkqen6-ram0ganapathy.shinyapps.io/sdtmoak_assistant/)
 
 ## Review a record Vitals Raw dataset
 

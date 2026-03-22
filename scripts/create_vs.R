@@ -5,7 +5,7 @@
 # Input raw data: pharmaverseraw::vs_raw
 # study_controlled_terminology : study_ct
 # SDTM aCRF
-# https://github.com/pharmaverse/pharmaverseraw/blob/main/vignettes/articles/aCRFs/VitalSigns_aCRF.pdf
+# https://github.com/pharmaverse/sdtm.oak-workshop/blob/main/specs/vs/VITALSIGNS_aCRF.pdf
 # Expand - Option+Shift+Cmd+O / Alt+Shift+Cmd+O
 # Collapse -  Option+Cmd+O / Alt+Cmd+O
 
