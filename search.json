@@ -144,14 +144,14 @@
     "href": "condensed.html#review-specs",
     "title": "SDTM Workshop using {sdtm.oak} - Condensed Version",
     "section": "Review specs",
-    "text": "Review specs\nReview aCRF\n\nVitalSigns_aCRF\nVitalSigns_metadata"
+    "text": "Review specs\nReview aCRF\n\nVitalSigns_aCRF\nVitalSigns_specs_metadata"
   },
   {
     "objectID": "condensed.html#demo---code-generation-using-metadata",
     "href": "condensed.html#demo---code-generation-using-metadata",
     "title": "SDTM Workshop using {sdtm.oak} - Condensed Version",
     "section": "Demo - Code Generation using metadata",
-    "text": "Demo - Code Generation using metadata\nRun the app and explain to the users"
+    "text": "Demo - Code Generation using metadata\nRun the app and explain to the users\nLink to the app"
   },
   {
     "objectID": "condensed.html#review-a-record-vitals-raw-dataset",
@@ -438,7 +438,7 @@
     "href": "full.html#review-specs-1",
     "title": "SDTM Workshop using {sdtm.oak}",
     "section": "Review specs",
-    "text": "Review specs\nReview aCRF\n\nVitalSigns_aCRF"
+    "text": "Review specs\nReview aCRF\n\nVitalSigns_aCRF\nVitalSigns_specs_metadata"
   },
   {
     "objectID": "full.html#code-walkthrough-1",
